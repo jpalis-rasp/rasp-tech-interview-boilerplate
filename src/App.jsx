@@ -11,7 +11,7 @@ function App() {
               <img src={rasLogo} className="logo" alt="RAS Tech logo"/>
           </a>
       </div>
-        <h3>Link to recrutation task you will get during the interview.</h3>
+        <h3>Link to interview task will be given during the interview.</h3>
         <div className="card">
         <p>
           Please download the PDF instruction file before starting.
